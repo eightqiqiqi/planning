@@ -1,5 +1,6 @@
 # planning
-![Detailed Workflow Diagram](https://github.com/user-attachments/assets/84178373-0f16-4a80-b81a-1b323d40fc84)
+![Detailed Workflow Diagram](https://github.com/user-attachments/assets/54e99af2-a213-411c-9d4a-2bbb277ed64d)
+
    Input (to RNN agent):      
    Input:    
    Current agent location    
