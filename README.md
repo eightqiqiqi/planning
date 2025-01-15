@@ -1,5 +1,5 @@
 # planning
-![Detailed Workflow Diagram](https://github.com/user-attachments/assets/54e99af2-a213-411c-9d4a-2bbb277ed64d)
+![Detailed Workflow Diagram](https://github.com/user-attachments/assets/f6ebb4e3-54f5-475f-b29e-9f5cab4b7279)
 
    ## Input (to RNN agent):      
    ### Input:    
